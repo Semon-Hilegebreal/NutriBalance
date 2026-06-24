@@ -1,0 +1,148 @@
+{
+  "foods": [
+    {
+      "id": "CHK001",
+      "name": "Chicken Breast",
+      "group": "protein",
+      "calories": 165,
+      "protein": 31,
+      "carbs": 0,
+      "fat": 3.6,
+      "fiber": 0,
+      "sugar": 0,
+      "serving_g": 100
+    },
+    {
+      "id": "SLM001",
+      "name": "Salmon Fillet",
+      "group": "protein",
+      "calories": 208,
+      "protein": 20,
+      "carbs": 0,
+      "fat": 13,
+      "fiber": 0,
+      "sugar": 0,
+      "serving_g": 100
+    },
+    {
+      "id": "RCE001",
+      "name": "Brown Rice",
+      "group": "grains",
+      "calories": 123,
+      "protein": 2.7,
+      "carbs": 25.6,
+      "fat": 1,
+      "fiber": 1.6,
+      "sugar": 0.2,
+      "serving_g": 150
+    },
+    {
+      "id": "QNO001",
+      "name": "Quinoa",
+      "group": "grains",
+      "calories": 120,
+      "protein": 4.4,
+      "carbs": 21.3,
+      "fat": 1.9,
+      "fiber": 2.8,
+      "sugar": 0.9,
+      "serving_g": 150
+    },
+    {
+      "id": "BRO001",
+      "name": "Broccoli",
+      "group": "vegetables",
+      "calories": 34,
+      "protein": 2.8,
+      "carbs": 6.6,
+      "fat": 0.4,
+      "fiber": 2.6,
+      "sugar": 1.7,
+      "serving_g": 100
+    },
+    {
+      "id": "SPN001",
+      "name": "Spinach",
+      "group": "vegetables",
+      "calories": 23,
+      "protein": 2.9,
+      "carbs": 3.6,
+      "fat": 0.4,
+      "fiber": 2.2,
+      "sugar": 0.4,
+      "serving_g": 100
+    },
+    {
+      "id": "APP001",
+      "name": "Apple",
+      "group": "fruits",
+      "calories": 52,
+      "protein": 0.3,
+      "carbs": 13.8,
+      "fat": 0.2,
+      "fiber": 2.4,
+      "sugar": 10.4,
+      "serving_g": 182
+    },
+    {
+      "id": "BAN001",
+      "name": "Banana",
+      "group": "fruits",
+      "calories": 89,
+      "protein": 1.1,
+      "carbs": 22.8,
+      "fat": 0.3,
+      "fiber": 2.6,
+      "sugar": 12.2,
+      "serving_g": 118
+    },
+    {
+      "id": "YOG001",
+      "name": "Greek Yogurt",
+      "group": "dairy",
+      "calories": 59,
+      "protein": 10.2,
+      "carbs": 3.6,
+      "fat": 0.4,
+      "fiber": 0,
+      "sugar": 3.2,
+      "serving_g": 170
+    },
+    {
+      "id": "AVO001",
+      "name": "Avocado",
+      "group": "fats",
+      "calories": 160,
+      "protein": 2,
+      "carbs": 8.5,
+      "fat": 14.7,
+      "fiber": 6.7,
+      "sugar": 0.7,
+      "serving_g": 100
+    },
+    {
+      "id": "ALM001",
+      "name": "Almonds",
+      "group": "fats",
+      "calories": 579,
+      "protein": 21.2,
+      "carbs": 21.6,
+      "fat": 49.9,
+      "fiber": 12.5,
+      "sugar": 4.4,
+      "serving_g": 28
+    },
+    {
+      "id": "LEN001",
+      "name": "Lentils",
+      "group": "protein",
+      "calories": 116,
+      "protein": 9,
+      "carbs": 20.1,
+      "fat": 0.4,
+      "fiber": 7.9,
+      "sugar": 1.8,
+      "serving_g": 200
+    }
+  ]
+} 
